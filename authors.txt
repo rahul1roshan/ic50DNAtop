@@ -1,6 +1,2 @@
-( Write Details About Authors of the App ) 
-
-
 Rahul Gupta - rahul1researcher@gmail.com
-
 CSIR-Indian Institute of Chemical Biology
